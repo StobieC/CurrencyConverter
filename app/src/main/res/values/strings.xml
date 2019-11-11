@@ -5,4 +5,5 @@
     <string name="conversion_amount">Amount to convert...</string>
     <string name="convert">Convert</string>
     <string name="default_source">USD</string>
+    <string name="default_convert">Every Currency</string>
 </resources>

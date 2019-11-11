@@ -21,7 +21,8 @@
         android:layout_height="wrap_content"
         android:ems="0"
         android:completionThreshold="1"
-        android:hint="@string/conversion_to" />
+        android:hint="@string/conversion_to"
+        android:text="@string/default_convert"/>
 
     <EditText
         android:id="@+id/convert_amount"
