@@ -4,7 +4,6 @@ import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import d.stobie.currencyconverter.model.ConvertedCurrency
-import d.stobie.currencyconverter.viewHolder.CurrencyViewHolder
 
 class RecyclerAdapter(private val currencyList: List<ConvertedCurrency>) : RecyclerView.Adapter<CurrencyViewHolder>() {
 

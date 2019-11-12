@@ -1,4 +1,4 @@
-package d.stobie.currencyconverter.viewHolder
+package d.stobie.currencyconverter.adapter
 
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
